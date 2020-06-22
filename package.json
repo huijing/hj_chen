@@ -1,6 +1,6 @@
 {
   "name": "huijing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Chen Hui Jing (@hj_chen)",
   "main": "/bin/card.js",
   "bin": {
@@ -32,8 +32,8 @@
     "bin/output"
   ],
   "devDependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
-    "standard": "^12.0.1"
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "standard": "^14.3.4"
   }
 }
