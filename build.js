@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('Chen Hui Jing'),
   handle: chalk.white('hj_chen'),
-  work: chalk.white('Developer Advocate at Nexmo'),
+  work: chalk.white('UX Developer at Shopify'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('hj_chen'),
   github: chalk.gray('https://github.com/') + chalk.green('huijing'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('huijingchen'),
